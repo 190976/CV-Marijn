@@ -54,3 +54,8 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.my-class {
+	color: antiquewhite;
+	font-family: 'Josefin Sans', sans-serif;
+}
